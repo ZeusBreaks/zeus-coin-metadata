@@ -1,1 +1,8 @@
-
+{
+  "name": "Zeus Coin",
+  "symbol": "ZSC",
+  "decimals": 6,
+  "description": "Zeus Coin (ZSC) is a 1:1 stablecoin built for the Zeus Breaks community—a streamer-based ecosystem on Drip that specializes in Pokémon and sports card collectibles, games, casino-style prizes, and community rewards. The roadmap (2026–2031) includes expansions into cryptocurrency investments, ETFs, hedge management, and diverse stores of value strategies, all focused on tangible assets and innovative trading alignments.",
+  "image": "https://raw.githubusercontent.com/ZeusBreaks/zeus-coin-metadata/c158bacab07d86e3f77882a81bb692c42d5e8ff6/IMG_0750.png",
+  "external_url": "https://yourwebsite.com"
+}
